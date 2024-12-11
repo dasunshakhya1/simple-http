@@ -6,7 +6,7 @@
 
     <groupId>com.devlab</groupId>
     <artifactId>simple-http</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
@@ -18,6 +18,7 @@
     </properties>
 
     <dependencies>
+
         <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
